@@ -12,6 +12,11 @@ https://www.youtube.com/embed/sAPe1sTnub8?si=w9Z9yaMtcWmovZ0M&amp;clip=UgkxXoBjE
 
 https://www.youtube.com/embed/sAPe1sTnub8?si=9COTt6Obe1noc38F&amp;clip=UgkxVMGkwskNzNslnxkR0dTQY0fnwJeDseAp&amp;clipt=EOiEARjI2QQ
 
+> [!NOTE]
+> Caso a tela do vídeo acima não apareça para você, você pode abrir o projeto indo no Menu `File` e clicando em `Open...`:
+> ![load_1](site/images/load_1.png)
+> ![load_2](site/images/load_2.png)
+
 ## Como fazer upload de arquivos para o GitHub
 
 https://www.youtube.com/embed/sAPe1sTnub8?si=P9bU31TxT3PqfISx&amp;clip=UgkxSdlIaoGDqIcdAmP1ceiqFIfpx9hpy_jc&amp;clipt=EKCQBRianwg

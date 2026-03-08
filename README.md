@@ -1,6 +1,6 @@
 # trabalho-final-paginas-web
 
->![NOTE]
+> [!NOTE]
 > Siga para a Seção [Ajuda](AJUDA.md) para visualizar dicas de como baixar os arquivos do GitHub para seu computador e
 > enviá-los de volta para o GitHub depois de modificá-los. 
 
