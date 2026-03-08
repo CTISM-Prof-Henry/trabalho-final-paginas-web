@@ -1,5 +1,9 @@
 # trabalho-final-paginas-web
 
+>![NOTE]
+> Siga para a Seção [Ajuda](AJUDA.md) para visualizar dicas de como baixar os arquivos do GitHub para seu computador e
+> enviá-los de volta para o GitHub depois de modificá-los. 
+
 Neste repositório você deve desenvolver o trabalho final da disciplina de **Construção de Páginas Web.**
 O objetivo da atividade é desenvolver um pequeno site utilizando **HTML, CSS e JavaScript**, aplicando os conceitos estudados em aula.
 
